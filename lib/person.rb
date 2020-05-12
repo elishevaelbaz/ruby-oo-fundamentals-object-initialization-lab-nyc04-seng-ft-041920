@@ -5,4 +5,4 @@ class Person
   end
 end
 
-elisheva = Person.new
+puts elisheva = Person.new
