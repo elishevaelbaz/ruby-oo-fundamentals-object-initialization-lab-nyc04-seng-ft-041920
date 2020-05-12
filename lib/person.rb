@@ -4,5 +4,3 @@ class Person
     @name = name
   end
 end
-
-puts elisheva = Person.new("Elisheva")
