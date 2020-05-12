@@ -4,3 +4,5 @@ class Person
     @name = name
   end
 end
+
+elisheva = Person.new
